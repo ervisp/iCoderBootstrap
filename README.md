@@ -1,5 +1,5 @@
 # iCoderBootstrap
-<<<<<<< HEAD
+
 Deploy a CI/CD pipeline with Jenkins using Docker-compose
 =======
 iCoderBootstrap is a simple static website built using HTML and CSS. It showcases a landing page for a fictional coding education company called iCoder.
