@@ -17,7 +17,7 @@ To deploy this website to a server using Docker, follow these steps:
 3. Build the Docker image using docker build -t icoderbootstrap:latest .
 4. Deploy the Docker container using docker-compose up -d
 ## Deployment using Jenkins CI/CD
- Jenkins pipeline
+ Jenkins pipeline;
  Create a Pipeline script, save it and build it. 
 ## Author
 This website was built by Ervis Pojana.
