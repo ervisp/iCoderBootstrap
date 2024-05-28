@@ -1,3 +1,8 @@
+
+![image](https://github.com/ervisp/iCoderBootstrap/assets/105393897/d8b779af-a073-476f-8bd3-ea03f2071077)
+
+
+
 # iCoderBootstrap
 #########################
 This repository provides a setup to deploy a CI/CD pipeline using Jenkins and Docker-compose. With this setup, you can automate the build, test, and deployment processes of your software projects.
