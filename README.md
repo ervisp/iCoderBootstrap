@@ -13,13 +13,12 @@ Before proceeding, ensure that you have the following software installed on your
 
 Docker: Install Docker
 Docker-compose: Install Docker-compose
-Getting Started
 
 # Step 1
 
 To deploy the CI/CD pipeline with Jenkins, follow these steps:
 
-Clone this repository: https://github.com/your-username/your-repo
+Clone this repository: https://github.com/ervisp/iCoderBootstrap
 Navigate to the project folder.
 
 # Step 2
